@@ -18,8 +18,10 @@ Then you can download the data and share it with others if you want.
 
 <h1>How to Run</h1>
 1) Run
+
 ```
 jupyter notebook
 ```
+
 2) Open "RetroactiveLocationTrackingAndVisualizer.ipynb"
 3) Run each codeblock to see visuals
