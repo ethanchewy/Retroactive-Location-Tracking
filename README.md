@@ -26,5 +26,5 @@ jupyter notebook
 2) Open "RetroactiveLocationTrackingAndVisualizer.ipynb"
 3) Run each codeblock to see visuals
 
-###Credits
-Nathan Chiu for inspiration
+<h1>Credit</h1>
+Nathan Chiu for inspiration and product vision
